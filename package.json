@@ -1,0 +1,15 @@
+{
+  "name": "css-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WrapperGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Maloney",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^4.19.0",
+    "split2": "^2.2.0"
+  }
+}
